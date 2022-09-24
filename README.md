@@ -1,6 +1,6 @@
 # Analysis-and-prediction-of-stock-investment-and-return-rate-in-Apple-Incorporation
 
-The project is designed to predict the future stocks in Apple for investment and return in accordance to the analysis and exploration of the past result. The below results yeild the desired output with precise accuracy.
+The project is designed to predict the future stocks in Apple for investment and return in accordance to the analysis and exploration of the past result. The below results yeild the desired output from the maximum accuracy.
 
 - Apple stocks by Year | Apple stocks from 2011 - Present
 <p align="left" width="750">
